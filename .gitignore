@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+*.log
+.env
+.DS_Store
+
+# Auto-added by push script
+.env.*
+*.env
+venv/
+__pycache__/

@@ -1,0 +1,10 @@
+body, html, #root {
+  margin: 0; height: 100%; width: 100%;
+}
+.app { display: flex; flex-direction: row; height: 100%; }
+.ui-panel {
+  width: 250px; min-width: 200px; background: #111;
+  color: #eee; padding: 1rem; box-sizing: border-box;
+}
+button { width: 100%; margin-bottom: 1rem; }
+.monster-info { margin-top: 1rem; }
